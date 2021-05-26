@@ -1,0 +1,4 @@
+#Sat Jul 18 23:38:30 BST 2020
+base.0=C\:\\Users\\Fauzi\\Desktop\\Projects\\Unity\\Tapper Adder\\Builds\\launcher\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
